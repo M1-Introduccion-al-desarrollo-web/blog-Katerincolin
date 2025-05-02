@@ -1,0 +1,12 @@
+Icono de la página: Corregir el tipo de archivo en <link rel="icon"> de type="blog/img/logo.png" a type="image/png".
+Cierre de la etiqueta <img>: Arreglar una comilla extra en la etiqueta <img> del logo.
+Descripción en alt: Mejorar las descripciones en los atributos alt de las imágenes para hacerlas más específicas.
+Estructura del menú: Usar una lista <ul> para el menú de navegación en lugar de los enlaces sin estructura.
+
+IMPORTANTE: La estructura de carpetas ha de ser la correcta. Has realizado una estructura poco organizada. Basicamente son tres carpetas y el index. 
+Una carpeta de pages.
+Una carpeta de imagenes
+Una carpeta de CSS
+Y el index.html
+
+Cuidar el uso de las rutas. Siempre porbar tosas las funcionalidades antes de presentar.
